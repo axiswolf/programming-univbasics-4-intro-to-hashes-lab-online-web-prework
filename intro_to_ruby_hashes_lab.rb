@@ -5,7 +5,10 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  blah[:yee] = "woo"
+  person = {
+  name: "Sam",
+  age: 31
+  }
 end
 
 def pioneer
